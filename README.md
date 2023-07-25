@@ -75,7 +75,7 @@ AutoNest is open-source software licensed under the [MIT License](link-to-licens
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any questions or feedback, feel free to reach out to us at [magxdev370@gmail.com](mailto:magxdev370@gmail.com).
 
 ---
 
